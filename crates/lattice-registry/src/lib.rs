@@ -1283,7 +1283,7 @@ mod tests {
         assert_eq!(report.source_pointer_count, 1);
         assert!(report
             .fletch_registry_path
-            .ends_with("registries\\registry-alpha.json"));
+            .ends_with(Path::new("registries").join("registry-alpha.json")));
 
         fs::remove_dir_all(root).unwrap();
     }
