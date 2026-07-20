@@ -1361,7 +1361,7 @@ impl StableHasher {
     }
 
     fn write_token(&mut self, value: &str) {
-        for byte in value.len().to_string().bytes().chain([b':']) {
+        for byte in value.len().to_string().bytes().chain(*b":") {
             self.write_byte(byte);
         }
         for byte in value.bytes() {
