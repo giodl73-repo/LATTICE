@@ -10,6 +10,9 @@ This public edition contains the product-neutral semantic core. It does not
 include private deployment plans, customer material, approval records, or
 organization-specific integrations.
 
+See [`docs/MAINTENANCE.md`](docs/MAINTENANCE.md) for the public/private
+promotion and compatibility boundary.
+
 ## Crates
 
 | Crate | Role |
