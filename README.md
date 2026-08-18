@@ -61,6 +61,20 @@ cargo clippy --workspace --all-targets -- -D warnings -A clippy::too-many-argume
 cargo test --workspace
 ```
 
+### Retained closure proof
+
+The focused public-API proof records one accepted tiny closure and one
+structured failure when required grains exceed the declared budget:
+
+```powershell
+cargo test -p lattice-order --test closure_proof
+```
+
+The retained fixture expects the accepted cut to close within budget with 10
+grains, 20 bonds, and one closure receipt. The rejected case returns
+`budget_failure` with `required_closure_exceeds_budget`; required context is
+never silently truncated.
+
 ## Status
 
 This is an early public core extracted from a larger incubation codebase. The

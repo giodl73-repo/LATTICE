@@ -1,0 +1,7 @@
+accepted.status=within_budget
+accepted.grain_count=10
+accepted.bond_count=20
+accepted.receipt_count=1
+failure.status=budget_failure
+failure.reason=required_closure_exceeds_budget
+failure.grain_limit=2
