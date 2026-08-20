@@ -18,7 +18,7 @@ promotion and compatibility boundary.
 LATTICE is the semantic-closure layer in a four-stage context-control family:
 
 ```text
-Sources → FLETCH → MDCROP → LATTICE → FLETCHER
+Sources → FLETCH → MDCROP → LATTICE → WITNESS
            fetch     select     close       replay
 ```
 
@@ -27,7 +27,7 @@ Sources → FLETCH → MDCROP → LATTICE → FLETCHER
 | [FLETCH](https://github.com/giodl73-repo/FLETCH) | Acquire, verify, cache, partition, and bundle source material. |
 | [MDCROP](https://github.com/giodl73-repo/MDCROP) | Index and select bounded, provenance-aware candidate context. |
 | **LATTICE** | Apply closure, meet/join, budgets, frontiers, packs, and receipts. |
-| [FLETCHER](https://github.com/giodl73-repo/FLETCHER) | Capture harness events, checkpoints, context deltas, and deterministic replay. |
+| [WITNESS](https://github.com/giodl73-repo/WITNESS) | Capture harness events, checkpoints, context deltas, and deterministic replay. |
 
 LATTICE turns candidate context into an explainable closed context. It does not
 fetch source bytes or own provider/session execution.
