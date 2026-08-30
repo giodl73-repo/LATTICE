@@ -75,6 +75,14 @@ grains, 20 bonds, and one closure receipt. The rejected case returns
 `budget_failure` with `required_closure_exceeds_budget`; required context is
 never silently truncated.
 
+## PITFALL doctrine
+
+LATTICE's reusable public-core failure memory is indexed at
+[`.pitfall/PITFALL.md`](.pitfall/PITFALL.md). It keeps closure-quality
+overclaims, softened budget failures, source-custody drift,
+private-deployment leakage, and unrehearsed family compatibility claims visible
+before public API, schema, dependency, or adoption claims expand.
+
 ## Status
 
 This is an early public core extracted from a larger incubation codebase. The

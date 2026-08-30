@@ -12,6 +12,7 @@ customer, funding, or approval material.
 | 01 | complete | Extract buildable core crates and scrub organization-specific policy. |
 | 02 | complete | Add public README, product plan, license, roles, and CI. |
 | 03 | complete | Validate formatting, linting, tests, and publication scan. |
+| 04 | complete | Add PITFALL public-core doctrine and tracker scoring evidence. |
 
 ## Validation
 
