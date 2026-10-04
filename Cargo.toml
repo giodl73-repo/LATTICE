@@ -6,6 +6,7 @@ members = [
     "crates/lattice-order",
     "crates/lattice-registry",
     "crates/lattice-store",
+    "crates/lattice-web",
 ]
 resolver = "2"
 

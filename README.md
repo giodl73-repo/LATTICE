@@ -32,6 +32,13 @@ Sources → FLETCH → MDCROP → LATTICE → WITNESS
 LATTICE turns candidate context into an explainable closed context. It does not
 fetch source bytes or own provider/session execution.
 
+## Browser workbench
+
+[Explore context algebra](https://giodl73-repo.github.io/LATTICE/): select
+two public sample sets, meet or join retained context, adjust the grain budget,
+and inspect deferred work and native receipt hashes. Real Rust runs as WASM.
+[Architecture and fixture limits](docs/browser-algebra.md).
+
 ## Crates
 
 | Crate | Role |
