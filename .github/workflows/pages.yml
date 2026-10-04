@@ -1,0 +1,54 @@
+name: Context algebra workbench
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - name: Install tools
+        run: |
+          rustup show
+          cargo install wasm-bindgen-cli --version 0.2.127 --locked
+          npm ci
+          npx playwright install --with-deps chromium
+      - name: Validate Rust
+        run: |
+          cargo fmt -p lattice-web --check
+          cargo test --locked --workspace
+          cargo clippy --locked --workspace --all-targets -- -D warnings -A clippy::too-many-arguments
+      - name: Build Pages and test browser
+        run: |
+          python tools/build-pages.py
+          npm test
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/LATTICE
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
