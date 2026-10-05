@@ -11,4 +11,4 @@ wasm=["dep:wasm-bindgen"]
 lattice-model={path="../lattice-model"}
 lattice-order={path="../lattice-order"}
 serde_json="1"
-wasm-bindgen={version="=0.2.127",optional=true}
+wasm-bindgen={version="=0.2.129",optional=true}
