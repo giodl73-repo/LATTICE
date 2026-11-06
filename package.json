@@ -1,5 +1,5 @@
 {
-  "name": "terrain-planner-browser-tests",
+  "name": "lattice-context-browser-tests",
   "private": true,
   "type": "module",
   "scripts": {"test": "playwright test"},

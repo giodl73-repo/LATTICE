@@ -1,0 +1,8 @@
+{
+  "toolchain": "1.95.0",
+  "file": "rust-1.95.0-COPYRIGHT-library.html",
+  "bytes": 425661,
+  "sha256": "90567e2718bf7fd65a71a3a43c5596488e80e5f51ed02bfea6fec54458b5f3d1",
+  "source": "Unmodified COPYRIGHT-library.html from the installed Rust1.95.0 rust-docs distribution",
+  "scope": "Complete original standard-library runtime copyright/notices; compiler/linker/browser/bindgen tools are installed prerequisites, not redistributed here. No per-binary license subset or blanket relicense is inferred."
+}

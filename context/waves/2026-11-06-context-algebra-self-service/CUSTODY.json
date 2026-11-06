@@ -1,0 +1,342 @@
+{
+  "schema": "lattice.baseline-custody.v1",
+  "records": [
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-commands.json.gz",
+      "raw_bytes": 1586,
+      "raw_sha256": "a63e2575fcf145bc9901a174effa8e15dfc861a0cc3856467f5580999d482c8d",
+      "gzip_bytes": 368,
+      "gzip_sha256": "604cda5cd2beb49247f56c47350f8ef41440f8eca52667bbfa70341584a75108"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-metadata.stdout.gz",
+      "raw_bytes": 98283,
+      "raw_sha256": "07ead956aaa66031b28a37aba5ef66114aa68b7487322b97f10a516b490dae7a",
+      "gzip_bytes": 7244,
+      "gzip_sha256": "4495dcfd297993b4998eb7cf52d5a846070eb6d0f10cc85541eee2506cae6493"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-native-tests.stdout.gz",
+      "raw_bytes": 6952,
+      "raw_sha256": "a1f59faa9ffb53d947dd7a82b35e805b47de038d5345268b2de6a3cbb0aa3c7b",
+      "gzip_bytes": 1672,
+      "gzip_sha256": "0187dfe15c3ab93676ffa5d8e1f8c269cfac53446b673200da2f8a62a17447f3"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-native-tests.stderr.gz",
+      "raw_bytes": 2183,
+      "raw_sha256": "e3254d94aac56bcad7cc3da1284b9fbdf291e23e3f3ca6991b6a49db853e532c",
+      "gzip_bytes": 607,
+      "gzip_sha256": "35246d3b84fb3a39fd512e5e2ea1dd13f1c7a993829573eebb5e44841fbc274d"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-closure-proof.stdout.gz",
+      "raw_bytes": 223,
+      "raw_sha256": "fcd609f35a844da08bd70cc62ec930dc12b2d7b7d02a45f2deb554264e9aad1a",
+      "gzip_bytes": 158,
+      "gzip_sha256": "3565b1d1ccf20ab9742ed84d18f58c16358c3b9f8113e5ffa93080691c726f5f"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-closure-proof.stderr.gz",
+      "raw_bytes": 186,
+      "raw_sha256": "76afda4046544f9897c154a75c656d6caf20aac13b473ed34da9eca78858e8bd",
+      "gzip_bytes": 166,
+      "gzip_sha256": "987e2a2e8813d650459ad54a756a9e0d7b6f356a6ca8973133b7235b8afb743d"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-full-format.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-full-format.stderr.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-clippy.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-clippy.stderr.gz",
+      "raw_bytes": 946,
+      "raw_sha256": "90e868e04e7bc4af1cd44bc1c9658c66e76f35302cb62bf985f9b2d9d20ceebe",
+      "gzip_bytes": 323,
+      "gzip_sha256": "06562b1f45fd90d7159896800efc513cdb3074e1cc23feb77492c38291d9989a"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-original-site.stdout.gz",
+      "raw_bytes": 83,
+      "raw_sha256": "34c15d6038408b55d3a1566ccba3671431882b08c79f6f1dc56ff66b2c057afe",
+      "gzip_bytes": 98,
+      "gzip_sha256": "6bf96811186fdbe3dd54b95de2a1a54132555be42b23da306856ab445b212f75"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-original-site.stderr.gz",
+      "raw_bytes": 784,
+      "raw_sha256": "0bbb0d6ff08172698897fb3b9d94e7803130f62e97b53fc90486f6bb990c0a59",
+      "gzip_bytes": 312,
+      "gzip_sha256": "e3967973c411dc12d27ebe21f7447e3e47016668497406c579298477ce6251cd"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-browser.stdout.gz",
+      "raw_bytes": 4181,
+      "raw_sha256": "c5061548e1e1a6cb14bbf95b17c3bd27ef6cd924963fcf98a2180cecbda21e37",
+      "gzip_bytes": 1202,
+      "gzip_sha256": "45443b540d6e7072b67baf8f98df4f35cd8c90b6dc804c6643d726de2c1b1dbb"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-native-v1-browser.stderr.gz",
+      "raw_bytes": 2508,
+      "raw_sha256": "4ea4132c5519ecbac78fe2c4cd157fe0e1e7aa7dfd4d0bfd9f4826c0916f66db",
+      "gzip_bytes": 377,
+      "gzip_sha256": "85d4472cca153e11457f23101fb05b0ab94af1c3c36a962ecbb3d8a2349e65f1"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-commands.json.gz",
+      "raw_bytes": 876,
+      "raw_sha256": "549920d4edfa92ff944dcba5a47874356faad8dff26bee89aeb7b5f02a6ece4a",
+      "gzip_bytes": 337,
+      "gzip_sha256": "d59835e91790784a77bbcd2d55ce2505fbb7189374a57cdb6467c5dafd090aab"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-controls.jsonl.gz",
+      "raw_bytes": 858861,
+      "raw_sha256": "4c8fc7d7f3bd4e101c491639d37c7c8593c8cf8afe27dfb42077852396972f00",
+      "gzip_bytes": 46238,
+      "gzip_sha256": "455dee341b96d0a1d8a13de5e90b3d620c6728dccfa6db5e11010714be5fb5cf"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-native-harness.rs.gz",
+      "raw_bytes": 1052,
+      "raw_sha256": "fda4daf359460e0530430d75f03952dc9d49e43529cef2373b7549dc8cdab84f",
+      "gzip_bytes": 477,
+      "gzip_sha256": "57a25beb957b349547571409ab374cbd6b8f2ff03a6e2e6e7f6700fe0a55f3b5"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-wasm-harness.mjs.gz",
+      "raw_bytes": 1696,
+      "raw_sha256": "ea1412d66a115a2d7eca7bfe9323e2c3317b9658e68c38e9baac6d9e8ae55dea",
+      "gzip_bytes": 814,
+      "gzip_sha256": "89f568ff17ca6861ab3cfcf058088e2a41430775901479f66b3cf06d660068eb"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-native.stdout.gz",
+      "raw_bytes": 37403108,
+      "raw_sha256": "573eb7a32d12b0faa71eeeb68e5b17d78887829eda5bf31772309bbf59681cdf",
+      "gzip_bytes": 543613,
+      "gzip_sha256": "10c052037869e42596a956cf9ed8abeb73619c9e09260f0bb92a992e6a8766ca"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-wasm.jsonl.gz",
+      "raw_bytes": 37403108,
+      "raw_sha256": "573eb7a32d12b0faa71eeeb68e5b17d78887829eda5bf31772309bbf59681cdf",
+      "gzip_bytes": 543613,
+      "gzip_sha256": "10c052037869e42596a956cf9ed8abeb73619c9e09260f0bb92a992e6a8766ca"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-wasm.stdout.gz",
+      "raw_bytes": 166,
+      "raw_sha256": "e4f95394e263b4ac31a75d260bd321184e12cfd79c830c4ab84055ae9a0c720b",
+      "gzip_bytes": 151,
+      "gzip_sha256": "c65515d7537c28f285477ea028a50c72f05999f1ebaacd9ba0cf51552d6b7ef1"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-raw-js-abi.json.gz",
+      "raw_bytes": 8785,
+      "raw_sha256": "0cc3d0fde9490f9599192da262d10e1fac7951efcfbfab8e8fca34b1e932955a",
+      "gzip_bytes": 799,
+      "gzip_sha256": "5f78367b8e19706b55c70053da15b8cf0562c8b1b9b98f3145b1c4083b0d348c"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-frame-parity-v1-receipt.json.gz",
+      "raw_bytes": 941,
+      "raw_sha256": "3fb41cd997453bf29c2d66a70f8c89a5966ef48096c45195bae3cce73d9a5b5c",
+      "gzip_bytes": 567,
+      "gzip_sha256": "ee69807b00322f3a9d0013d37054148ccb4bb888e03fbdf004e080b3117eb6b6"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-inputs-v1-original-helper.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-inputs-v1-original-helper.stderr.gz",
+      "raw_bytes": 992,
+      "raw_sha256": "0836f4936ed0c65efc9e294fcfd7314b4edcfb62166dede05e69bae0ab04434b",
+      "gzip_bytes": 381,
+      "gzip_sha256": "484a92a3c6b72dd309a7982841c883229437fb042e832c12c6af97fb102ed8de"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-inputs-v1-author.stdout.gz",
+      "raw_bytes": 247,
+      "raw_sha256": "7dc0f77a4e347c7ed8d5c2b7988f16d20715f7f075390ebbbf9aad3f7c3fbe46",
+      "gzip_bytes": 203,
+      "gzip_sha256": "93e638622b5aaf1d5f52ef22301e7a691cf066426bf81557b12c8228ea8e572f"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-inputs-v1-author.stderr.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-tests-v1-custody.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-tests-v1-custody.stderr.gz",
+      "raw_bytes": 3671,
+      "raw_sha256": "d25edb1e76ca062d42584f13cbbad7b22f36897d222f0a30ccbc6f6422c118c4",
+      "gzip_bytes": 905,
+      "gzip_sha256": "7d322aa84b7e3f0f5ac274cea0633f720d3a315ca6e2e3f20cba63aad82e4c6e"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-tests-v1-flags.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-tests-v1-flags.stderr.gz",
+      "raw_bytes": 367,
+      "raw_sha256": "8855ca11d20751a6badb3e0b7e91c507eacf701fd5c7f52d101c19b465bf2361",
+      "gzip_bytes": 164,
+      "gzip_sha256": "1051f24f9612298050e1f21b7a3d6c079a3c5c3120133ca24df0154ac8754fb5"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-build-v1-commands.json.gz",
+      "raw_bytes": 1441,
+      "raw_sha256": "5bf17794caa62640672be05317a0a1903d575610718b81d04fbf6c9cfb4f9000",
+      "gzip_bytes": 441,
+      "gzip_sha256": "e46db5957157849dc5e90f2136af92a38dc8a4fc8baf46060def3067bd25cd5f"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-build-v1-receipt.json.gz",
+      "raw_bytes": 2410,
+      "raw_sha256": "08830ca3bc608c68e406375ba961e9e5797ef8ed9245f0cd07cabcc61cbe41ed",
+      "gzip_bytes": 1087,
+      "gzip_sha256": "bc564c3afacc707a3ec2b59b304d494e3afb3289a13f3758fa87255086bc43be"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-build-v1-policy.json.gz",
+      "raw_bytes": 1322,
+      "raw_sha256": "51d365063f4d9422d9c3b446f728cae3f736ebfa78cde3eb209a4370819ddae8",
+      "gzip_bytes": 615,
+      "gzip_sha256": "db136940d42b9b4f9d766315e8b3436a7ae7ae39a424c005b747f9dc05206a44"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-build-v1-native-tests.stdout.gz",
+      "raw_bytes": 6952,
+      "raw_sha256": "ab476f1f90e1475b5271d07c81f381343a6885bfa3cc4e9aec7f499d2a08663b",
+      "gzip_bytes": 1673,
+      "gzip_sha256": "129170123c1841502cbad3459adf4b7a6a8fb75b4d6f75e9da5374dc8ff0dec7"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-build-v1-native-tests.stderr.gz",
+      "raw_bytes": 2328,
+      "raw_sha256": "c3e14ac9cdc2c0d1918d2f4dcfb9077b86dbb7252ee09a41f5e7e7d33125e0cf",
+      "gzip_bytes": 647,
+      "gzip_sha256": "1aa2db4ed798246ad063f5f683f5a1d5cdfc883ec1c92516170f88c1cd609a14"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-build-v1-clippy.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-build-v1-clippy.stderr.gz",
+      "raw_bytes": 1091,
+      "raw_sha256": "b99a6700b0823da4b4dfdc88fa5a497b9441c6682555cd486b26b47da365057d",
+      "gzip_bytes": 372,
+      "gzip_sha256": "bc70c5434317e5de165d5feb4f872acf681e9cbba04460498a3ebcd13d0c0f0e"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/owned-input-build-v1-wasm.stdout.gz",
+      "raw_bytes": 166,
+      "raw_sha256": "f701842a1c91b6ed7c679a952fc135816008ccabd5824190625a2033041e5a91",
+      "gzip_bytes": 152,
+      "gzip_sha256": "51a9aa67752ecebce7b7ce17e25c09441cbb7e3bb4a9b5112859d7b49872e4dc"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/stale-output-predecessor-v1-browser.stdout.gz",
+      "raw_bytes": 1804,
+      "raw_sha256": "1f175416840faea67b0c952da08f689df2f635191fc244292d0d1dabcb2716db",
+      "gzip_bytes": 746,
+      "gzip_sha256": "ab1714d136af32ecb24afb54ab62cc72d0245677c2a03662f150dab78c880faa"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/stale-output-predecessor-v1-browser.stderr.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/stale-output-predecessor-v2-stale.spec.mjs.gz",
+      "raw_bytes": 904,
+      "raw_sha256": "b8664c82ca47828a7bac4916c245159bfcce4afd774761ce0757f5997222eaa7",
+      "gzip_bytes": 491,
+      "gzip_sha256": "7e26bf4fee5c8c8288e110cb20fdbbd00966993cc8f875c4ff476dc4243c73a8"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/stale-output-predecessor-v2-playwright.config.mjs.gz",
+      "raw_bytes": 547,
+      "raw_sha256": "669ed46a25840e5930896eb3e6cc060462ec19bfc59138bf058737e18da00880",
+      "gzip_bytes": 371,
+      "gzip_sha256": "f5db5f58219c9ce180272e70a8eccc918b3e07fc2e2effdce9d4678752ed3eb0"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/stale-output-predecessor-v2-browser.stdout.gz",
+      "raw_bytes": 7310,
+      "raw_sha256": "74666e4751927e5ae1d7bba669f4cc86a451e330ad3c0de5bfa69f3be3b56e69",
+      "gzip_bytes": 1661,
+      "gzip_sha256": "2eafcae8466eda14be9fd119b97a09cfbec58fc259852852266602dc93f9fe8c"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/stale-output-predecessor-v2-browser.stderr.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/stale-output-predecessor-v2-receipt.json.gz",
+      "raw_bytes": 513,
+      "raw_sha256": "7d77b2107dd258a95ffec2b9963f03d05b81134af889df3e0b4405e0fd886202",
+      "gzip_bytes": 347,
+      "gzip_sha256": "fe1e92a3eee7c8799af4ac76499fac026bab8ef922dd17f4545002071e055ed1"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-source-inventory.json.gz",
+      "raw_bytes": 12756,
+      "raw_sha256": "dcd96ad423fdbec300f363596a439b7631c24ff276b0667075df1d77a6a973a9",
+      "gzip_bytes": 4633,
+      "gzip_sha256": "251a507578757ca00f23f2f55d10ae2478cc764d661c21c099166fe171e35c49"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/original-all-features-metadata.stdout.gz",
+      "raw_bytes": 125510,
+      "raw_sha256": "3eac40d58f0a7cc5f155e695ad02b155d980a9ebdcbc013953a8e2e6d768a6fe",
+      "gzip_bytes": 9350,
+      "gzip_sha256": "3a53f0bc4496e0dac73a5cb919f179ae2ca54f312da14b4b32839e2df10b6a01"
+    }
+  ],
+  "scope": "Exact retained gzip observations; original complete native/WASM strings remain separate matching37,403,108-byte raw streams. Installed prerequisites/shared target explicit. No source/default/live release qualification."
+}

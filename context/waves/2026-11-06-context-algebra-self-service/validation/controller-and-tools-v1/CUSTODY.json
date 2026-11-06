@@ -1,0 +1,90 @@
+{
+  "records": [
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/controller-full-report.json.gz",
+      "raw_bytes": 18763,
+      "raw_sha256": "35752bc60d389c179bd0066ac9ca825a20872eb181a024edd9a9223be5120591",
+      "gzip_bytes": 2152,
+      "gzip_sha256": "f8ec0e0bdf2cadd03ba0bf4c56c8d45e4d87b81e3fa3c323fc5522e2c2860e15"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/controller-full.log.gz",
+      "raw_bytes": 23559,
+      "raw_sha256": "e123250e4d0b8ad99d85ecd5f761e9c6ed6ad5d985d3baacc2758eabe8bf4b20",
+      "gzip_bytes": 1868,
+      "gzip_sha256": "9d911d3ef8d75389732d6564d868d8bfb9d22f1cda551c93f90dca299e996492"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/uncomposed-first-launch.log.gz",
+      "raw_bytes": 2449,
+      "raw_sha256": "abff3c840389097eb716682ae0dde8d7aa7d46b26a8e4735639179714e1e8b8e",
+      "gzip_bytes": 553,
+      "gzip_sha256": "455a05d078104062fb130e3a4f796e973afb8ea99d660285f181245eb5d67c60"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/commands.json.gz",
+      "raw_bytes": 861,
+      "raw_sha256": "a0b00cdb8b718c9cb22ba7c11fd8fa0bfadfd06aa2b4fad0d4909ace550c0dd9",
+      "gzip_bytes": 286,
+      "gzip_sha256": "38acf33a5a9fd996b0150e773473dcf8f4f958112454c3f43131f081f75b32ef"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/custody.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/custody.stderr.gz",
+      "raw_bytes": 4789,
+      "raw_sha256": "dd931cef4bfbf108b416872bc05c05af3659d7b39ac03360ed2ddf69bf7237da",
+      "gzip_bytes": 1084,
+      "gzip_sha256": "64238a605d8345a6c64bf4508ba94cc6d48ae6314bc73577a199cea459b77a89"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/flags.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/flags.stderr.gz",
+      "raw_bytes": 367,
+      "raw_sha256": "834350fa038c6540752f718b0214cb63448e42c573a302fddc31c24c91cde740",
+      "gzip_bytes": 164,
+      "gzip_sha256": "35d4950d885f2eb7d155b2502793ff2c797b981886d7e4ca6eb83675891dddaa"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/format.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/format.stderr.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/actionlint.stdout.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/controller-and-tools-v1/actionlint.stderr.gz",
+      "raw_bytes": 0,
+      "raw_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "gzip_bytes": 20,
+      "gzip_sha256": "9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64"
+    }
+  ],
+  "controller_browser_cases": 16,
+  "scope": "Candidate web controller composed with frozen original WASM, not the new complete package. First launch failed to compose candidate due cwd; repeated original2-case suite is not candidate qualification. Later16-case actual selected controller build passes without retries.35 custody+2 flags/full formatting/actionlint pass."
+}

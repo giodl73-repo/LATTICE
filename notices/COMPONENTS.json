@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "source_repository": "https://github.com/giodl73-repo/TERRAIN",
+      "source_commit": "fe8cb674cd51fc364f2c0cb2ec93b0457fb52e08",
+      "original_license": "TERRAIN-COMPONENTS-LICENSE.txt",
+      "adapted_paths": [
+        "tools/input_custody.py",
+        "tools/make-inputs.py",
+        "tools/rust_build.py",
+        "tools/test_input_custody.py",
+        "tools/test_rust_build.py"
+      ],
+      "scope": "Public source/input/compiler custody helpers and tests only. Original complete MIT text retained separately; LATTICE application and original dependencies retain their own grants."
+    },
+    {
+      "source_repository": "https://github.com/giodl73-repo/WITNESS",
+      "source_commit": "a0fc8200c14545f820b2f1c095f92732c88fd248",
+      "original_license": "WITNESS-COMPONENTS-LICENSE.txt",
+      "adapted_paths": [
+        "web/algebra-session.js",
+        "tools/serve-pages.py",
+        "tools/source_custody.py",
+        "tools/receive-source.py",
+        "tools/test_source_custody.py",
+        "tools/build-pages.py",
+        "tools/check-source-replay.py",
+        "tests/browser/recovery.spec.js"
+      ],
+      "scope": "Public worker lifecycle and test-server helpers; original TERRAIN ancestry/grant retained. LATTICE semantic code unchanged."
+    }
+  ]
+}
