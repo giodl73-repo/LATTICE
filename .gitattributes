@@ -1,0 +1,4 @@
+*.gz -text
+cargo-inputs/inputs.zip -text
+DEPENDENCY-NOTICES.txt -text
+notices/TERRAIN-COMPONENTS-LICENSE.txt -text
