@@ -19,7 +19,7 @@ source/semantic/budget/API checks, not independent human approval.
 
 ## Measured baseline
 
-Original native workspace98 tests, focused closure proof2, full formatting,
+Original native workspace78 tests, focused closure proof2, full formatting,
 strict workspace/all-target Clippy with existing too-many-arguments allowance,
 release WASM and both actual browser cases pass. Original site214,018 bytes;
 that is not complete required source/input/grant delivery.
@@ -63,7 +63,7 @@ are rejected. Existing commit/tree/source-mode tamper and lock-drift controls st
 
 All25 input custody controls and2 compiler-flag controls pass. Direct invocation
 also runs both new selector tests. Restored new owned inputs/home actually build
-all98 native tests, strict repository Clippy, release native/WASM and the entire
+all78 native tests, strict repository Clippy, release native/WASM and the entire
 original16,398-result stream unchanged. Metadata binds every package to its owned
 source and preserves all26 identities/configuration. Compiled target and installed
 compiler/browser tools were reused; this is not an empty-target archive replay.
@@ -115,3 +115,26 @@ keeps the original5 MB budget. All35 custody and2 flag controls, full formatting
 and actionlint pass. Complete18-case packaged browser suite, measured whole-site
 budget, new-input/home/empty-target source replay, actual PR/default/live gates
 remain unqualified at this candidate. Production Rust and lock remain unchanged.
+
+
+## Complete local package and reporting correction
+
+Clean c58075ec builds a complete19-file/3,536,407-byte package, below5 MB.
+All144 source files reproduce outside Git with new owned inputs/home and an
+initially absent compiled target. Every published file and manifest is exact;
+full16,398 native/WASM results and all18 browser cases pass. Desktop/mobile,
+receipt, stopped, native budget failure and noJS guide captures are reviewed with
+no page errors or horizontal overflow. Actual worker bytes match the manifest;
+raw export matches native. Fresh local desktop Chromium first result2463 ms,
+calculation11.2 ms observed for the synthetic eight-grain default fixture; no
+WAN/mobile hardware or general performance claim. One mobile intro line-break
+spacing issue is corrected without changing the task text or semantics.
+
+The original native suite totals78 passes:1+2+18+23+2+14+17+1. Earlier prose
+reported98 due to an arithmetic mistake; raw logs always recorded78 and remain
+unchanged. The native/WASM16398 and browser18 counts were correct. A separate
+correction record retains both the erroneous report and authoritative totals.
+The original hosted baseline run42204540287 fails before browser tests because
+ubuntu-latest resolves to unsupported Ubuntu26.04 for Playwright1.58.2. The
+Ubuntu24.04-pinned candidate run42206561918 succeeds; keep the raw failure.
+Final source identity/hosted/default/live qualification remains separate.

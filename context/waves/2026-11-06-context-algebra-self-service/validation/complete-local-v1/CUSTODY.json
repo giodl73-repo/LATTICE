@@ -1,0 +1,69 @@
+{
+  "records": [
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/complete-build.stdout.gz",
+      "raw_bytes": 116,
+      "raw_sha256": "40ad67c9ab0bcadd45d72f236490043d3c7bd51b0b078cb6c82091be734bc7e5",
+      "gzip_bytes": 131,
+      "gzip_sha256": "d1a17b69ed5491fc395265e493c816fea25274cef27489736d34f711143e6aec"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/complete-commands.json.gz",
+      "raw_bytes": 1655,
+      "raw_sha256": "639e7cd9c5ede2c348819881cc66eb67f936b18661d160123258920e8e57a4d5",
+      "gzip_bytes": 358,
+      "gzip_sha256": "edf54cecfec71555cce7fc987869968f5a65a499ea93fd3dfa85e6b011644e90"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/complete-algebra-receipt.json.gz",
+      "raw_bytes": 3410,
+      "raw_sha256": "a58899e5f6959d973301f5f71c2218ddb416ef83f48c5f8f7821d05f28ba60dd",
+      "gzip_bytes": 1300,
+      "gzip_sha256": "68246f2c27bceda9a2578db131a50a22d144556fabac9611133d479d16a3e7d5"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/source-replay-receipt.json.gz",
+      "raw_bytes": 7374,
+      "raw_sha256": "7a711fe3d0ab04248fb5a055f8643f27fed1d7d506204a770eebb1a66a914ee1",
+      "gzip_bytes": 2130,
+      "gzip_sha256": "2bfdb0cbbc682979dbad7482d44aed46d8310b9eb0dbb17e1a85077c739db5c0"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/source-replay-commands.json.gz",
+      "raw_bytes": 3695,
+      "raw_sha256": "4ab97cea02ec7b46642ee4b8c7b5d179a24507f221c3dd153647ed091458f4d9",
+      "gzip_bytes": 680,
+      "gzip_sha256": "66ab4fc31fe091e136eb9e3cfd35019936f44deb1bf1b788e0b4ae27ed8706d3"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/source-replay-native.stdout.gz",
+      "raw_bytes": 6952,
+      "raw_sha256": "9e4273ba4520145428117e9b3cd2d7a6de499bd7e8c7918884902948ca1e5113",
+      "gzip_bytes": 1657,
+      "gzip_sha256": "745d5307922d9706b0002291890772dfb06ceeac76c8d5534a5ba7f2c5226f81"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/source-replay-browser.stdout.gz",
+      "raw_bytes": 2381,
+      "raw_sha256": "11517f4c886e8ed3c52fe9329940e673651cd0df694b24c5fbb497bfbde00284",
+      "gzip_bytes": 904,
+      "gzip_sha256": "a0fc87c0c9ae2a0cc2dbab83bcf8afcfdac2ef35f306b7a9c4f95efdb34e7d17"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/visual-receipt.json.gz",
+      "raw_bytes": 734,
+      "raw_sha256": "ac8ad3bec7dea6c6311a68e722abf6f21d8aab8bbfd21630e8bad4e7610b525f",
+      "gzip_bytes": 481,
+      "gzip_sha256": "903b00b39c50f28934622096624d44b5f3fd3844da791aa7008f0c079fdaed90"
+    },
+    {
+      "path": "context/waves/2026-11-06-context-algebra-self-service/validation/complete-local-v1/original-hosted-42204540287-failed.log.gz",
+      "raw_bytes": 31600,
+      "raw_sha256": "a423001855c9fb8415adb4bbe85446069517a76290bd78f2a956966a87bc2fd6",
+      "gzip_bytes": 6032,
+      "gzip_sha256": "e6ca568dd9036d11393c131c6fe274c7cca764ec8e85ade3baaf19037f4f4b59"
+    }
+  ],
+  "source": "c58075eca0244a4061d692761db189d72e7fb32a",
+  "scope": "Exact raw complete local source/package replay observations at c580;78 native,16398 full results,18 browser,19 files/manifest exact,144 original source files and3,536,407 bytes. Final documentation/count/mobile whitespace review changes source identity and requires hosted requalification."
+}

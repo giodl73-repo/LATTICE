@@ -1,0 +1,24 @@
+{
+  "schema": "lattice.native-count-correction.v1",
+  "previous_reported_total": 98,
+  "actual_original_native_test_counts": [
+    1,
+    2,
+    18,
+    23,
+    2,
+    14,
+    17,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "actual_original_total": 78,
+  "reason": "Author summed the per-suite raw logs incorrectly. Original/current raw results remain untouched; full16398 native/WASM and18 packaged browser counts are unaffected.",
+  "original_stdout_sha256": "a1f59faa9ffb53d947dd7a82b35e805b47de038d5345268b2de6a3cbb0aa3c7b"
+}
