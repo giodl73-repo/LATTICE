@@ -89,3 +89,29 @@ No delivery/default/live qualification yet. TRACKER still has four qualified
 readers and one reader gap; broader94-repo work remains active. Canonical LATTICE
 stays unchanged. [Raw observation custody](CUSTODY.json) retains failures and
 complete streams; generated archives/targets remain outside Git.
+
+
+## Recoverable controller and complete-package candidate
+
+All16 actual browser cases pass on the controller composed with frozen original
+WASM, including the unchanged stale-output predecessor, twelve exact raw/pretty
+export pairs in isolated browser contexts, real checkbox/range keyboard input,
+actual budget failures with warm-worker recovery, init/calculation deadlines,
+CPU-blocked Stop/Retry, fatal traps, crash/message errors, rapid-selection/reset
+retirement, generation fencing and late clipboard completion. All prior outputs
+clear immediately on input edits. A completed export keeps the exact inputs that
+produced it. Actual ordinary Rust error strings keep the engine warm; runtime
+failures retire it. Injected stalls/traps are explicit faults before native calls.
+One first test-launch command used the wrong cwd and never composed a candidate;
+its two original cases are retained as old-site observations, not controller proof.
+
+Complete-source and standalone receiver helpers now include original WITNESS and
+TERRAIN MIT grants, source identity/path/link/output/resource controls, versioned
+runtime, no-JavaScript guide, fourteen actual native examples and full notices.
+The original wrapped JSON filename/format stays unchanged; separate raw download
+preserves exact native JSON strings. The builder checks original dependency/
+runtime grants, compiles the original Rust, inventories all published files and
+keeps the original5 MB budget. All35 custody and2 flag controls, full formatting
+and actionlint pass. Complete18-case packaged browser suite, measured whole-site
+budget, new-input/home/empty-target source replay, actual PR/default/live gates
+remain unqualified at this candidate. Production Rust and lock remain unchanged.

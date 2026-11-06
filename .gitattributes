@@ -2,3 +2,10 @@
 cargo-inputs/inputs.zip -text
 DEPENDENCY-NOTICES.txt -text
 notices/TERRAIN-COMPONENTS-LICENSE.txt -text
+notices/WITNESS-COMPONENTS-LICENSE.txt -text
+notices/rust-1.95.0-COPYRIGHT-library.html -text
+web/* text eol=lf
+LICENSE text eol=lf
+notices/rust-1.95.0-COPYRIGHT-library.html whitespace=cr-at-eol,-blank-at-eol,-blank-at-eof
+DEPENDENCY-NOTICES.txt whitespace=cr-at-eol,-blank-at-eof
+notices/*.txt whitespace=cr-at-eol,-blank-at-eof
