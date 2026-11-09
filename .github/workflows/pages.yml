@@ -16,11 +16,11 @@ jobs:
     env:
       CARGO_TARGET_DIR: ${{ github.workspace }}/target/lattice-build
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.12'
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: '22'
           cache: npm
@@ -63,7 +63,7 @@ jobs:
         run: python -B tools/check-source-replay.py --site dist/LATTICE --output "${RUNNER_TEMP}/lattice-source-replay" --browser
       - name: Retain source replay observations
         if: always() && !cancelled()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: lattice-source-replay
           path: |
@@ -74,12 +74,12 @@ jobs:
           if-no-files-found: warn
       - name: Retain full frame comparisons
         if: always() && !cancelled()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: lattice-algebra-parity
           path: ${{ runner.temp }}/lattice-algebra-parity
           if-no-files-found: warn
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: dist/LATTICE
   deploy:
@@ -93,5 +93,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v5
         id: deployment
